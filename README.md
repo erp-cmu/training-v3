@@ -8,11 +8,11 @@
 
 - [เอกสารการอบรม](https://drive.google.com/drive/folders/1keZp5DTJwzJ9HYxKVEbBVRrtQhandH63?usp=sharing)
 
-- [วีดีโอ (Youtube)](https://youtu.be/OwwMOegWQF4?si=cZFfLM-Q2gz8WXPq)
-
 - [การติดตั้ง ERPNext](https://discuss.frappe.io/t/erpnext-training-thailand-feb-2025-installation-guide/142055)
 
 - [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/844RxGB62Bm)
+
+- [วีดีโอ (Youtube)](https://youtube.com/playlist?list=PLNGLpHQhvGruioqeWhRmkQNswqWaRDHMu&si=Px0kI21L4m-Vf-qR)
 
 ## Topics
 
